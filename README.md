@@ -1,9 +1,4 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+参考文献：https://minecraft.wiki/?title=Armor&interlangSearch=en-zh#Damage_formulas
+This mod provides a configuration file that allows players to modify the EPF ratio.
+这个模组为玩家提供了配置文件修改EPF的比值
+I can't quite remember what it was, either.
